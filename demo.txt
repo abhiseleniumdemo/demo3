@@ -1,5 +1,7 @@
 ﻿Git Demo 1
  
- Making changes through github.com
+Making changes through github.com
+
+Some more changes
 
 
