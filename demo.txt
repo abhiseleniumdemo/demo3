@@ -1,3 +1,8 @@
-﻿Gt Demo 1
+﻿Git Demo 1
+
+
+
+comparing difference between the two files
+before commit and one which is already committed recently 
 
 
