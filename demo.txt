@@ -1,3 +1,5 @@
 ﻿Git Demo 1
 
+adding new content
 
+make some changes for Reset Demo
